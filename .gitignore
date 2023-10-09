@@ -1,0 +1,65 @@
+## Build Folders ##
+bin/
+obj/
+
+## User-specific files ##
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Ignored folders ##
+.vs/
+.idea/
+.vscode/
+.tye/
+## Ignored files ##
+*.pidb
+*.userprefs
+*.sln.iml
+*.dbmdl
+*.jfm
+*.swp
+*.swo
+*.dll
+*.pdb
+*.exe
+
+## Image File Caches ##
+Thumbs.db
+ehthumbs.db
+
+## Recycle Bin used on file shares ##
+$RECYCLE.BIN/
+
+## Windows files ##
+Desktop.ini
+
+## Windows Shortcut files ##
+*.lnk
+
+## SQL Server files ##
+*.mdf
+*.ldf
+*.ndf
+
+## Dotnet core auto generated directory ##
+bin/
+obj/
+
+## Ignore all log files ##
+*.log
+
+## Ignore npm debug logs ##
+npm-debug.log
+
+## Ignore JetBrains Rider folders ##
+.idea/
+
+## Ignore ASP.NET Scaffolding ##
+ScaffoldingReadMe.txt
+
+## Ignore .NET Scaffolding ##
+dotnet_tools
+
