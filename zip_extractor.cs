@@ -74,6 +74,7 @@ namespace ZipUtility
             Console.WriteLine("Arguments:");
             Console.WriteLine("  --from\tPath to the directory containing zip files.");
             Console.WriteLine("  --to\t\tPath to the destination directory where files will be extracted.");
+            Console.WriteLine("  to compile, run the following command csc zip_extractor.cs /r:System.IO.Compression.FileSystem.dll");
         }
     }
 }
