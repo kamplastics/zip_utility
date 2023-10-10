@@ -1,6 +1,6 @@
 # ZipUtility
 
-ZipUtility is a command-line tool developed in C# for extracting ZIP files from a source directory to a destination directory.
+ZipUtility is a command-line tool developed in C# for extracting ZIP files from a source directory to a destination directory. This application was built on windows and for windows.
 
 ## Prerequisites
 
